@@ -1,1 +1,1 @@
-# happy-birthday-game
+# birthday-game
